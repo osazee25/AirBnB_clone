@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """The module that depicts the main engine room"""
 import json
+from models.user import User
 from models.base_model import BaseModel
 
 
